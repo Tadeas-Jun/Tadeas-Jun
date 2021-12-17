@@ -1,3 +1,5 @@
+![header](github/header.png)
+
 👋 Hiya, I'm Tadeas Jun!
 
 I make Android apps, games, Discord bots, and sometimes websites. I'm also a writer.
