@@ -25,7 +25,7 @@ If you're interested in some of my work, I'd love it if you'd check out my CV, a
 - *The Eledris Blog* - a blog focused on worldbuilding, writing, art, and game dev. [[^]](https://eledris.com/)
 - *Art Prompts* - a series of projects meant to inspire artists. Includes Android app, Discord bot, web app. [[^]](https://artprompts.app/)
 - *Wumpi* - a series of open-source Discord bots, available here on GitHub. [[^]](https://github.com/stars/Tadeas-Jun/lists/wumpi/)
-- *Other small projects* - including the *DisTriv* [[^]](https://discord.com/api/oauth2/authorize?client_id=836169090380070942&permissions=2147483648&scope=bot%20applications.commands) trivia bot for Discord, and the *Pride Flags & Gradients* [[^]](https://www.figma.com/community/plugin/1002324870709884461/Pride-Flags-%26-Gradients) plugin for Figma.
+- *Other small projects* - including the *DisTriv* [[^]](https://discord.com/api/oauth2/authorize?client_id=836169090380070942&permissions=2147483648&scope=bot%20applications.commands) trivia bot for Discord, and the *Pride Flags & Gradients* [[^]](https://github.com/Tadeas-Jun/figma-pride) plugin for Figma.
 
 &nbsp; &nbsp; 
 
