@@ -4,7 +4,7 @@
 
 I make Android apps, games, Discord bots, and sometimes websites. I'm also a writer.
 
-I'm available for freelance work in the areas mentioned in the **My skills** section below. If you want to reach out, feel free to do so via *tadeas@eledris.com*, or on Discord at **Tadeas Salvatore Jun#9537**.
+I'm available for freelance work in the areas mentioned in the **My skills** section below. If you want to reach out, feel free to do so via *contact@tadeasjun.com*, or on Discord at **Tadeas Salvatore Jun#9537**. You can also check out my [portfolio website](https://www.tadeasjun.com/).
 
 If you're interested in some of my work, I'd love it if you'd check out my CV, available as a .pdf file here on [GitHub](/TadeasJun_CV.pdf)! Alternatively, you can read up on my skills and projects below.
 
