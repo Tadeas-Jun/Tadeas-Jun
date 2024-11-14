@@ -6,7 +6,7 @@ I make websites, Discord bots, and sometimes Android apps and even games. I'm al
 
 I'm available for freelance work in the areas mentioned in the **My skills** section below. If you want to reach out, feel free to do so via *contact@tadeasjun.com*, or on Discord at **@tadeasjun**. You can also check out my [portfolio website](https://www.tadeasjun.com/).
 
-If you're interested in some of my work, I'd love it if you'd check out my CV, available as a .pdf file here on [GitHub](/TadeasJun_CV.pdf)! Alternatively, you can read up on my skills and projects below.
+If you're interested in some of my work, I'd love it if you'd check out my CV, available as a .pdf file here on [GitHub](/tadeasjun_cv_en.pdf) (or in [Czech](/tadeasjun_cv_cs.pdf))! Alternatively, you can read up on my skills and projects below.
 
 &nbsp; &nbsp; 
 
