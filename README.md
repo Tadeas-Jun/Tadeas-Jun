@@ -2,7 +2,7 @@
 
 👋 Hiya, I'm Tadeas Jun!
 
-I make Android apps, games, Discord bots, and sometimes websites. I'm also a writer.
+I make websites, Discord bots, and sometimes Android apps and even games. I'm also a writer.
 
 I'm available for freelance work in the areas mentioned in the **My skills** section below. If you want to reach out, feel free to do so via *contact@tadeasjun.com*, or on Discord at **@tadeasjun**. You can also check out my [portfolio website](https://www.tadeasjun.com/).
 
@@ -11,9 +11,10 @@ If you're interested in some of my work, I'd love it if you'd check out my CV, a
 &nbsp; &nbsp; 
 
 **🪄  My skills**
-- Android development
+- Web development
 - NodeJS development
 - React development
+- Android development
 - Game development
 - Tech research
 - Translation (Czech & English)
@@ -30,11 +31,12 @@ If you're interested in some of my work, I'd love it if you'd check out my CV, a
 &nbsp; &nbsp; 
 
 **💻  The tools & tech I love**
-- Java
-- Android
 - JavaScript
 - NodeJS
 - Discord.js
+- PHP
+- Java
+- Android
 - C#
 - Unity
 - Figma
