@@ -37,6 +37,7 @@ Most of my personal and professional projects are listed on [my portfolio websit
 - JavaScript
 - React.js
 - Node.js
+- Express.js
 - Gatsby.js
 - Sass
 - Discord.js
