@@ -22,6 +22,7 @@ If you're interested in some of my work, I'd love it if you'd check out my CV, a
 &nbsp; &nbsp;
 
 **🏆  My projects**
+
 Most of my personal and professional projects are listed on [my portfolio website](https://tadeasjun.com). Here are some of my favorite personal ones:
 
 - *Art Prompts* - a web app helping artist find inspiration for drawing. I designed and coded the API (Express.js) and website (around 1 000 registered users), as well as a popular Discord bot (8 000 servers). [[^]](https://artprompts.app/)
